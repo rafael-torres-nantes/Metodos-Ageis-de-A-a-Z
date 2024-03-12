@@ -1,7 +1,7 @@
-*Kanban*
+# Kanban
 
-**Fluxo de Trabalho**
+## Fluxo de Trabalho
 
-** Pontos de Entrega **
+## Pontos de Entrega 
 
-** Boas Práticas de Gestão ** 
+## Boas Práticas de Gestão
