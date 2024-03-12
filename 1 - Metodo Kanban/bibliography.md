@@ -1,4 +1,4 @@
-#Referências bibliográficas do módulo
+# Referências bibliográficas do módulo
 
 AMARAL, D. C. Gerenciamento ágil de projetos: Aplicação em Produtos Inovadores. 1a edição ed. São Paulo, SP: Saraiva, 2012.
 
