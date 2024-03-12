@@ -10,31 +10,26 @@ O Kanban é uma metodologia que utiliza quadros visuais para gerenciar o fluxo d
 
 O fluxo de trabalho no Kanban refere-se às etapas ou fases pelas quais as tarefas passam desde o início até a conclusão. Cada etapa é representada por uma coluna em um quadro Kanban. As etapas podem variar de acordo com o contexto do projeto ou equipe, mas geralmente incluem:
 
-### Ideias
-Nesta etapa, as ideias para novas funcionalidades, melhorias ou projetos são geradas e registradas. Pode envolver brainstorming, pesquisa de mercado e feedback dos usuários.
+- __Ideias:__ Nesta etapa, as ideias para novas funcionalidades, melhorias ou projetos são geradas e registradas. Pode envolver brainstorming, pesquisa de mercado e feedback dos usuários.
 
-### Análise de Viabilidade
-As ideias são analisadas quanto à viabilidade técnica, recursos necessários e impacto potencial nos objetivos do projeto. Isso inclui avaliação de custos, prazos e recursos disponíveis.
+- __Análise de Viabilidade:__ As ideias são analisadas quanto à viabilidade técnica, recursos necessários e impacto potencial nos objetivos do projeto. Isso inclui avaliação de custos, prazos e recursos disponíveis.
 
-### Selecionado
-Nesta fase, as ideias viáveis são selecionadas para desenvolvimento com base em critérios pré-definidos, como prioridade de negócios, ROI esperado e alinhamento com a estratégia da empresa.
+- __Selecionado:__ Nesta fase, as ideias viáveis são selecionadas para desenvolvimento com base em critérios pré-definidos, como prioridade de negócios, ROI esperado e alinhamento com a estratégia da empresa.
 
-### Desenvolvimento
-As tarefas selecionadas são desenvolvidas pelos membros da equipe. Isso envolve codificação, design, implementação de funcionalidades e integração de sistemas, conforme necessário.
+- __Desenvolvimento:__ As tarefas selecionadas são desenvolvidas pelos membros da equipe. Isso envolve codificação, design, implementação de funcionalidades e integração de sistemas, conforme necessário.
 
-### Teste
-Após o desenvolvimento, as funcionalidades são testadas para garantir que atendam aos requisitos e padrões de qualidade estabelecidos. Isso inclui testes de unidade, integração e aceitação, bem como revisões de código e depuração.
+- __Teste:__ Após o desenvolvimento, as funcionalidades são testadas para garantir que atendam aos requisitos e padrões de qualidade estabelecidos. Isso inclui testes de unidade, integração e aceitação, bem como revisões de código e depuração.
 
-### Finalizado
-Finalmente, as funcionalidades testadas e aprovadas são consideradas concluídas e prontas para entrega ao cliente ou para integração ao produto principal. Isso pode envolver documentação, treinamento do usuário e preparação para o lançamento.
+- __Finalizado:__ Finalmente, as funcionalidades testadas e aprovadas são consideradas concluídas e prontas para entrega ao cliente ou para integração ao produto principal. Isso pode envolver documentação, treinamento do usuário e preparação para o lançamento.
+
 
 ## Pontos de Entrega 
 
 Os pontos de entrega, ou marcos, são pontos específicos no fluxo de trabalho onde o progresso é medido e as entregas são realizadas. Eles são geralmente definidos com base nas necessidades do projeto e podem incluir marcos como:
 
-__Ponto de Comprometimento:__ O ponto de comprometimento é um marco no qual a equipe concorda em dedicar recursos e esforços para iniciar o desenvolvimento de uma determinada funcionalidade ou projeto. Isso geralmente ocorre após a análise de viabilidade e a seleção das ideias.
+- __Ponto de Comprometimento:__ O ponto de comprometimento é um marco no qual a equipe concorda em dedicar recursos e esforços para iniciar o desenvolvimento de uma determinada funcionalidade ou projeto. Isso geralmente ocorre após a análise de viabilidade e a seleção das ideias.
 
-__Ponto de Entrega:__ O ponto de entrega é um marco no qual uma parte ou todo o trabalho relacionado a uma determinada funcionalidade ou projeto é considerado concluído e pronto para ser entregue ou implantado. Isso ocorre após o desenvolvimento, teste e aprovação das funcionalidades desenvolvidas.
+- __Ponto de Entrega:__ O ponto de entrega é um marco no qual uma parte ou todo o trabalho relacionado a uma determinada funcionalidade ou projeto é considerado concluído e pronto para ser entregue ou implantado. Isso ocorre após o desenvolvimento, teste e aprovação das funcionalidades desenvolvidas.
 
 ## Boas Práticas de Gestão
 
