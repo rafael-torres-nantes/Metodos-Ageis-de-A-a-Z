@@ -131,3 +131,7 @@ A Jornada do Usuário é uma ferramenta não padronizada. Portanto, ela pode ter
 </p> 
 
 Segue a leitura (Jornada do Usuário: Entendendo e Melhorando as Interações)[https://medium.com/aela/jornada-do-usuário-o-que-é-e-sua-importância-em-ux-design-f8ac0cb025ca]
+
+## StoryBoard
+
+[Lean Inception com Paulo Caroli](https://www.youtube.com/watch?v=WA_Qnfv-kYU)
