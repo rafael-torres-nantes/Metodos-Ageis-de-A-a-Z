@@ -110,3 +110,24 @@ Ao definir os conceitos em oposição, preenche-se esses perfils de usuário que
 <img src="https://github.com/rafael-torres-nantes/Study-MetodosAgeisDeAaZ/assets/58231791/9dd0dea3-109b-489f-bfbd-9d6e1a5b50f0" width="720" height="480">
 </p> 
 
+## Jornada do Usuário
+
+Toda interação pode ser traduzida em uma história sobre a relação do usuário com seu produto ou serviço. O usuário passa por uma jornada, um caminho, desde a pesquisa sobre o produto até sua compra, uso e interação. Dessa forma, essa Jornada do Usuário é a ferramenta que faz o mapeamento de todo esse processo de interação do consumidor. 
+
+Por meio dela, podemos encontrar todos os pontos de contato que o usuário possui com o produto e montar uma história na qual ele é o protagonista. Além disso, é possível visualizar todo o percurso do usuário e analisar o relacionamento dele com o produto e com os diversos canais de distribuição.
+
+A Jornada do Usuário é uma ferramenta não padronizada. Portanto, ela pode ter diferentes formas, formatos e cores, mas seu modelo mais simples deve conter:
+- Objetivos do usuário;
+- Suas ações;
+- Seus pensamentos;
+- Suas emoções.
+
+<p align="center">
+<img src="https://github.com/rafael-torres-nantes/Study-MetodosAgeisDeAaZ/assets/58231791/4a5bee16-2e34-4466-9274-5e77e195cf1d" width="720" height="480">
+</p> 
+
+<p align="center">
+<img src="https://github.com/rafael-torres-nantes/Study-MetodosAgeisDeAaZ/assets/58231791/c96cb7a6-d06f-41f3-ad53-26b329b78d8c" width="720" height="480">
+</p> 
+
+Segue a leitura (Jornada do Usuário: Entendendo e Melhorando as Interações)[https://medium.com/aela/jornada-do-usuário-o-que-é-e-sua-importância-em-ux-design-f8ac0cb025ca]
