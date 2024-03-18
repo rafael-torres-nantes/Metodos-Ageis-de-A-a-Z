@@ -9,7 +9,7 @@ Seja bem-vindo !!! O __Repositório de Métodos Ágeis__ é um espaço dedicado 
 - [💻 Desenvolvimento](#desenvolvimento)
   - [🔧 Ferramentas e tecnologias utilizadas](#ferramentas-e-tecnologias-utilizadas)
 
-## Sobre a Compass.uol
+## Sobre Métodos Ágeis
 
 Os métodos ágeis representam uma filosofia inovadora para o desenvolvimento de software, priorizando flexibilidade, adaptabilidade e entrega frequente de valor. Ao contrário das metodologias tradicionais, como a cascata, que se baseiam em processos lineares e rígidos, os métodos ágeis propõem uma abordagem mais dinâmica e colaborativa, reconhecendo que as necessidades e prioridades podem mudar ao longo do projeto.
 
