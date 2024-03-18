@@ -86,4 +86,27 @@ Para criar seu próprio moodboard, defina o seu objetivo, reúna suas referênci
 
 ## Personas em Mapas de Empatia
 
+Personas são personalidades fictícias de potenciais usuários que podem consumir o produto desenvolvido. Essas personas compõe um conjunto de caracteríscas pessais, sociais, intelectuais e profissionais que são úteis por considerar objetivos e desejejos, limitações dos usuarios. Dessa forma, ajudam a orientar as decisoes e soluções sobre as caracteristicas de um projeto.
+
+Uma das formas de construir uma Persona é pelo __Mapa da Empatia__:
+
+<p align="center">
+<img src="https://github.com/rafael-torres-nantes/Study-MetodosAgeisDeAaZ/assets/58231791/ee5af1e4-fa14-470e-b9ea-932a3e8725c8" width="720" height="480">
+</p>
+
 ## Grupos de Usuários
+
+Para qualquer projeto existem diversos Perfils de Usuários, torna-se necessário comtemplar um __Grupo de Usuários__ para familiarizar com as necessidades do projeto envolvido. 
+
+A Matriz de Agrupamento de Usuários surge como uma ferramenta poderosa para auxiliar na identificação do Grupo de Usuários mais adequado ao seu projeto. Através da criação de um gráfico com _dois eixos (x e y)_, que representam termos em oposição, quatro quadrantes distintos são gerados, permitindo uma segmentação precisa do público-alvo.
+
+<p align="center">
+<img src="https://github.com/rafael-torres-nantes/Study-MetodosAgeisDeAaZ/assets/58231791/196c8063-07b3-469e-bb98-87c07e013db6" width="720" height="480">
+</p>
+
+Ao definir os conceitos em oposição, preenche-se esses perfils de usuário que contemplam cada um desses quadrantes. Discute-se uma série de características em relação a esses usuários, sobretudo, o que esses usuários __buscam__. o que pode-se __oferecer__ ou sobre as __dificuldades__ desses oerfils.
+
+<p align="center">
+<img src="https://github.com/rafael-torres-nantes/Study-MetodosAgeisDeAaZ/assets/58231791/9dd0dea3-109b-489f-bfbd-9d6e1a5b50f0" width="720" height="480">
+</p> 
+
